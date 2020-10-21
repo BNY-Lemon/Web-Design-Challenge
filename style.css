@@ -1,0 +1,16 @@
+.fakeimg {
+  height: 200px;
+  background: #aaa;
+}
+.description-img {
+    float: left;
+    height: 400px;
+    width: 500px;
+}
+.bounding-box {
+    border-color: rgb(201, 76, 76);
+    border-style: solid;
+}
+.btn-primary {
+    border-color: rgb(0 0 0 / 0%);
+}
